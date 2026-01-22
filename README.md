@@ -3,7 +3,7 @@
 ### [Demostración en YouTube](https://youtube.com/shorts/oliSr2Nbpw4)
 
 <h2>Descripción</h2>
-El proyecto consiste de una aplicación de películas desarrollada en Flutter que permite al usuario explorar películas por género. Desplázate verticalmente para cambiar de género y desliza horizontalmente entre los pósters. Toca cualquier póster para ampliarlo a pantalla completa, ver detalles como director, año de estreno, duración y calificaciones de IMDb/Rotten Tomatoes, o ir directamente a su página de Wikipedia o IMDb.
+Este proyecto consiste de una aplicación de películas desarrollada en Flutter que permite al usuario explorar películas por género. Desplázate verticalmente para cambiar de género y desliza horizontalmente entre los pósters. Toca cualquier póster para ampliarlo a pantalla completa, ver detalles como director, año de estreno, duración y calificaciones de IMDb/Rotten Tomatoes, o ir directamente a su página de Wikipedia o IMDb.
 <br />
 
 <h2>Lenguajes y utilidades utilizados</h2>
